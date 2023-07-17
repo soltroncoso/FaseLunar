@@ -3,7 +3,7 @@ Una pequeña librería que muestra el estado de la fase lunar
 
 ### Installation
 ```
-pip install calculadora-fase-lunar==0.1.0
+pip install calculadora-fase-lunar==0.1.1
 ```
 
 ### Comencemos
