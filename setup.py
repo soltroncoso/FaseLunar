@@ -20,8 +20,8 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="",
-    author="Sol troncoso",
-    author_email="sol.troncoso@usach.cl",
+    author="Sol Troncoso", "Martina Abarca", "Dafhne Muñoz",
+    author_email="sol.troncoso@usach.cl", "martina.abarca.i@usach.cl", "dafhne.munoz@usach.cl"
     license="MIT",
     classifiers=[
         "Intended Audience :: Developers",
